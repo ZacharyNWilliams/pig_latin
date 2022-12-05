@@ -1,0 +1,23 @@
+{
+  "name": "pig-latin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacharyNWilliams/pig-latin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZacharyNWilliams/pig-latin/issues"
+  },
+  "homepage": "https://github.com/ZacharyNWilliams/pig-latin#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
